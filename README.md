@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shivam%20Shukla&fontSize=48&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Building%20Storage%20%26%20Distributed%20Systems&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shivam%20Shukla&fontSize=48&fontColor=E0AAFF&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Building%20Storage%20%26%20Distributed%20Systems&descAlignY=55&descSize=18)
 
 <a href="https://github.com/shivamshukla02">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=600&lines=LSM-Tree+Storage+Engine+%7C+Java;Raftstore+%7C+Distributed+Consensus;Systems+Engineering+%7C+Correctness+First;Aspiring+SWE+%40+Google+%2F+Cloudflare+%2F+HFT" alt="Typing SVG" />
@@ -200,10 +200,10 @@ Worked as a technical partner driving student outreach and engineering education
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivamshukla02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b388ff&icon_color=9d4edd&text_color=c9c9c9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamshukla02&theme=tokyonight&hide_border=true&background=0d1117&ring=b388ff&fire=9d4edd&currStreakLabel=b388ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shivamshukla02&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamshukla02&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshukla02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b388ff&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshukla02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -213,7 +213,7 @@ Worked as a technical partner driving student outreach and engineering education
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivamshukla02&theme=algolia&no-frame=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=shivamshukla02&theme=tokyonight&no-frame=true&column=7" />
 
 </div>
 
@@ -223,21 +223,12 @@ Worked as a technical partner driving student outreach and engineering education
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamshukla02&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b388ff&line=9d4edd&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamshukla02&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-### 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shivamshukla02/shivamshukla02/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
 
 ### 🟣 Current Focus
 
