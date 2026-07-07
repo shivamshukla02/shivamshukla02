@@ -1,0 +1,15 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3C096C"/>
+      <stop offset="50%" stop-color="#6A0DAD"/>
+      <stop offset="100%" stop-color="#9D4EDD"/>
+    </linearGradient>
+    <path id="wave" d="M0,180 C150,140 350,220 500,180 C650,140 850,220 1000,180 L1000,220 L0,220 Z"/>
+  </defs>
+  <rect width="1000" height="220" fill="#0d1117"/>
+  <rect width="1000" height="220" fill="url(#bg)" opacity="0.85"/>
+  <use href="#wave" fill="#0d1117" opacity="0.5"/>
+  <text x="500" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#E0AAFF" text-anchor="middle">Shivam Shukla</text>
+  <text x="500" y="135" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#c9c9c9" text-anchor="middle">Systems Engineer | Building Storage &amp; Distributed Systems</text>
+</svg>

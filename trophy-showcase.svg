@@ -1,0 +1,44 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#240046"/>
+      <stop offset="100%" stop-color="#3C096C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" fill="#0d1117"/>
+
+  <g transform="translate(20,20)">
+    <rect width="180" height="180" rx="14" fill="url(#card)" stroke="#9D4EDD" stroke-width="1.5"/>
+    <text x="90" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" text-anchor="middle" fill="#E0AAFF">200+</text>
+    <text x="90" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#c9c9c9">LeetCode</text>
+    <text x="90" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#c9c9c9">Problems Solved</text>
+  </g>
+
+  <g transform="translate(220,20)">
+    <rect width="180" height="180" rx="14" fill="url(#card)" stroke="#9D4EDD" stroke-width="1.5"/>
+    <text x="90" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" text-anchor="middle" fill="#E0AAFF">1600</text>
+    <text x="90" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#c9c9c9">Codeforces</text>
+    <text x="90" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#c9c9c9">Rating</text>
+  </g>
+
+  <g transform="translate(420,20)">
+    <rect width="180" height="180" rx="14" fill="url(#card)" stroke="#9D4EDD" stroke-width="1.5"/>
+    <text x="90" y="65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" text-anchor="middle" fill="#E0AAFF">Rank 472</text>
+    <text x="90" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#c9c9c9">NSO</text>
+    <text x="90" y="115" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#c9c9c9">100k+ Participants</text>
+  </g>
+
+  <g transform="translate(620,20)">
+    <rect width="180" height="180" rx="14" fill="url(#card)" stroke="#9D4EDD" stroke-width="1.5"/>
+    <text x="90" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" text-anchor="middle" fill="#E0AAFF">8.86</text>
+    <text x="90" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#c9c9c9">SGPA</text>
+    <text x="90" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#c9c9c9">B.Tech CSE</text>
+  </g>
+
+  <g transform="translate(820,20)">
+    <rect width="180" height="180" rx="14" fill="url(#card)" stroke="#9D4EDD" stroke-width="1.5"/>
+    <text x="90" y="65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" text-anchor="middle" fill="#E0AAFF">1.7K+</text>
+    <text x="90" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#c9c9c9">YouTube</text>
+    <text x="90" y="115" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#c9c9c9">Subscribers</text>
+  </g>
+</svg>
