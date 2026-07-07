@@ -10,7 +10,7 @@
 ![SGPA](https://img.shields.io/badge/SGPA-8.86-8A2BE2?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍-Kanpur,%20India-4B0082?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/shivamshukla02)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://shukla02shivam-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-shukla-a944a13b4/)
 [![Email](https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukla02shivam@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamshukla02)
