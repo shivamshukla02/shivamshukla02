@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shivam%20Shukla&fontSize=48&fontColor=E0AAFF&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Building%20Storage%20%26%20Distributed%20Systems&descAlignY=55&descSize=18&cache=1)
+<img src="https://raw.githubusercontent.com/shivamshukla02/shivamshukla02/main/header-banner.svg" width="100%" />
 
 <a href="https://github.com/shivamshukla02">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=600&lines=LSM-Tree+Storage+Engine+%7C+Java;Raftstore+%7C+Distributed+Consensus;Systems+Engineering+%7C+Correctness+First;Aspiring+SWE+%40+Google+%2F+Cloudflare+%2F+HFT" alt="Typing SVG" />
