@@ -213,7 +213,7 @@ Worked as a technical partner driving student outreach and engineering education
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivamshukla02&theme=tokyonight&no-frame=true&column=7&cache=1" />
+<img src="trophy-showcase.svg" width="100%" />
 
 </div>
 
