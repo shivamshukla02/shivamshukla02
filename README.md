@@ -78,7 +78,7 @@ High-performance LSM-tree storage engine built in Java 17 for real-time analytic
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Java 17, YCSB, Prometheus, WAL, Compaction | Single-node, extensible | >504K random writes/sec (≈78% of RocksDB), p99 read latency 800µs → 97µs | Crash-safe via WAL replay | Eliminated >90% SSTable reads under read-heavy workloads | [GitHub](https://github.com/shivamshukla02) |
+| Java 17, YCSB, Prometheus, WAL, Compaction | Single-node, extensible | >504K random writes/sec (≈78% of RocksDB), p99 read latency 800µs → 97µs | Crash-safe via WAL replay | Eliminated >90% SSTable reads under read-heavy workloads | [GitHub](https://github.com/shivamshukla02/LSM-Tree-Storage-Engine-with-MVCC-) |
 
 Engineered a skip-list MemTable, leveled compaction pipeline, and Bloom-filtered SSTables (k=7, 10 bits/key). Integrated a sharded LRU block cache, group-commit WAL batching, and adaptive compaction throttling, holding space amplification at 1.4×.
 
@@ -93,7 +93,7 @@ Linearizable distributed key-value store using Raft consensus over gRPC (TLS), b
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Java 17, Raft, gRPC, MVCC, WAL | Multi-node cluster | >50K write ops/sec, p99 write latency < 5ms, lease reads <1ms, >200K reads/sec | TLS-secured transport, fencing tokens | Validated via chaos testing for crash safety | [GitHub](https://github.com/shivamshukla02) |
+| Java 17, Raft, gRPC, MVCC, WAL | Multi-node cluster | >50K write ops/sec, p99 write latency < 5ms, lease reads <1ms, >200K reads/sec | TLS-secured transport, fencing tokens | Validated via chaos testing for crash safety | [GitHub](https://github.com/shivamshukla02/Raftstore-Distributed-KV-Store) |
 
 Built lease-based reads via leader-local serving with monotonic-clock validation, and an MVCC state machine using Lamport timestamps with snapshot isolation and background GC to control space amplification.
 
@@ -106,7 +106,7 @@ Offline-first multilingual AI assistant for emergency response scenarios, built 
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Gemma 4, Ollama, FastAPI, ChromaDB, Whisper, IndicTrans2, Flutter | Offline single-device | Low-latency local inference | Fully offline, no data transmission | Hackathon submission | [GitHub](https://github.com/shivamshukla02) |
+| Gemma 4, Ollama, FastAPI, ChromaDB, Whisper, IndicTrans2, Flutter | Offline single-device | Low-latency local inference | Fully offline, no data transmission | Hackathon submission | [GitHub](https://github.com/shivamshukla02/sahayak-ai) |
 
 Combines local LLM inference with speech recognition and multilingual translation to deliver emergency guidance without internet connectivity.
 
@@ -119,7 +119,7 @@ Multi-agent system for reconstructing advanced persistent threat (APT) kill chai
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Multi-agent orchestration, Splunk | Log-scale analysis | Automated chain reconstruction | Security-focused by design | Hackathon submission | [GitHub](https://github.com/shivamshukla02) |
+| Multi-agent orchestration, Splunk | Log-scale analysis | Automated chain reconstruction | Security-focused by design | Hackathon submission | [GitHub](https://github.com/shivamshukla02/ThreatWeaver) |
 
 Uses coordinated agents to trace and reconstruct attacker behavior across the kill chain from raw security event data.
 
