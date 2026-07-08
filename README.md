@@ -125,32 +125,6 @@ Uses coordinated agents to trace and reconstruct attacker behavior across the ki
 
 </details>
 
-<details>
-<summary><b>MediVerse-X — AR Surgical Planning Platform</b></summary>
-
-Augmented reality platform for surgical planning, built for the Mercer|Mettl VISIONARY Hackathon 2.0.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| AR/VR tooling, full-stack | Single-surgeon workflow | Real-time visualization | Standard app-level security | Hackathon submission | [GitHub](https://github.com/shivamshukla02) |
-
-Enables pre-operative visualization and planning through augmented reality overlays.
-
-</details>
-
-<details>
-<summary><b>Commbank Program — Full-Stack Banking Application</b></summary>
-
-Full-stack banking simulation application with a C# .NET backend, TypeScript frontend, and full unit test coverage.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| C# .NET, TypeScript, MSTest | Full-stack application | Unit-tested backend logic | Standard banking app practices | Professional simulation project | [GitHub](https://github.com/shivamshukla02) |
-
-Built with complete unit test coverage using MSTest to validate backend banking logic.
-
-</details>
-
 ---
 
 ### 🟣 Experience
