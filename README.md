@@ -111,13 +111,6 @@ Combines local LLM inference with speech recognition and multilingual translatio
 
 </details>
 
-<details>
-<summary><b>ThreatWeaver — Multi-Agent APT Kill Chain Reconstruction</b></summary>
-
-Multi-agent system for reconstructing advanced persistent threat (APT) kill chains, built for the Splunk Agentic Ops Hackathon.
-
-</details>
-
 ---
 
 ### 🟣 Experience
