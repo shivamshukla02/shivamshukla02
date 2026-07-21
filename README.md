@@ -60,7 +60,6 @@ My focus areas:
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Multi-Agent Systems | Intermediate | Agentic kill-chain reconstruction pipelines — ThreatWeaver (Splunk Agentic Ops Hackathon) |
 | Offline LLM Tooling | Intermediate | Gemma 4, Ollama, ChromaDB, Whisper, IndicTrans2 — Sahayak AI (Kaggle Gemma 4 Good Hackathon) |
 | RAG Pipelines | Working Knowledge | ChromaDB-backed retrieval for offline emergency-response assistant |
 | Speech & Translation | Working Knowledge | Whisper for ASR, IndicTrans2 for multilingual translation |
@@ -116,12 +115,6 @@ Combines local LLM inference with speech recognition and multilingual translatio
 <summary><b>ThreatWeaver — Multi-Agent APT Kill Chain Reconstruction</b></summary>
 
 Multi-agent system for reconstructing advanced persistent threat (APT) kill chains, built for the Splunk Agentic Ops Hackathon.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| Multi-agent orchestration, Splunk | Log-scale analysis | Automated chain reconstruction | Security-focused by design | Hackathon submission | [GitHub](https://github.com/shivamshukla02/ThreatWeaver) |
-
-Uses coordinated agents to trace and reconstruct attacker behavior across the kill chain from raw security event data.
 
 </details>
 
